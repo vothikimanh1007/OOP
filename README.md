@@ -7,7 +7,7 @@
 ## Giới Thiệu Dự Án
 
 Trang web cung cấp thông tin về:
-- [**Học OOP với AI**: Nền tảng giúp sinh viên học các khái niệm OOP với sự hỗ trợ từ AI.](https://github.com/vothikimanh1007/OOP/blob/main/Optimizations.docx)
+- [**Học OOP với AI**: Nền tảng giúp sinh viên học các khái niệm OOP với sự hỗ trợ từ AI.][(https://github.com/vothikimanh1007/OOP/blob/main/Optimizations.docx), (https://github.com/vothikimanh1007/OOP/blob/main/AIHelper.java)]
 - [**Các tính năng**: Bao gồm các bài tập lập trình tương tác, trợ giúp AI, và ứng dụng thực tế của OOP.](https://github.com/vothikimanh1007/OOP/blob/main/Th%E1%BB%B1c%20t%E1%BA%BF.docx)
 - [**Lab 5**: Các bài tập thực hành và thử thách để áp dụng các khái niệm OOP trong tình huống thực tế.](https://github.com/vothikimanh1007/OOP/blob/main/Lab5.pdf)
 - [**Tài liệu**: Các tài liệu tham khảo và công cụ hỗ trợ sinh viên trong việc làm chủ OOP.](https://github.com/vothikimanh1007/OOP)
